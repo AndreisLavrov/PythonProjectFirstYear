@@ -1,3 +1,3 @@
 # PythonProjectFirstYear
 
-This is simply project with Python and csv file
+This is project with Python and csv file
